@@ -14,4 +14,23 @@ $ pkg install git
 $ git clone https://github.com/underxploit/Autov
 $ cd Autov
 $ php auto.php
+  !
+How to get unlimited views on blogger 💀
+Commands
+  
+  apt update && apt upgrade
+  pkg update 
+  pkg upgrade
+  pkg install git
+  pkg install php
+  git clone https://github.com/underxploit/autov
+  pkg install php
+  cd autov
+  ls
+  php auto.php
+
+
+  After that enter your blogger link then enter and then write numbers of visitors must enter 19999 for recommending.✓
+  
+  
 </pre>
